@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2c4a63&height=180&section=header&text=Kim%20Yujin&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Backend%20Engineer&descSize=18&descAlignY=54" width="100%" />
+<img src="banner.svg" width="100%" alt="Kim Yujin — Backend Engineer" />
 
 하나의 트랜잭션으로 묶을 수 없는 작업을 **신뢰할 수 있게** 만들고,<br/>
 클라이언트 값을 **그대로 믿지 않는** 서버 경계를 고민합니다.

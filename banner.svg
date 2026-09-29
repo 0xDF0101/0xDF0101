@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Kim Yujin — Backend Engineer">
+  <defs>
+    <clipPath id="c"><rect width="1200" height="260" rx="6"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="260" fill="#2c4a63"/>
+    <path d="M0 196 Q 300 164 600 190 T 1200 182 L1200 260 L0 260 Z" fill="#ffffff" opacity="0.07"/>
+    <path d="M0 218 Q 320 246 640 214 T 1200 226 L1200 260 L0 260 Z" fill="#ffffff" opacity="0.10"/>
+    <text x="600" y="112" text-anchor="middle"
+          font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+          font-size="68" font-weight="800" fill="#ffffff" letter-spacing="-1">Kim Yujin</text>
+    <text x="600" y="152" text-anchor="middle"
+          font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+          font-size="21" font-weight="500" fill="#ffffff" opacity="0.78" letter-spacing="3.5">BACKEND ENGINEER</text>
+    <rect x="556" y="176" width="88" height="2.5" rx="1.25" fill="#ffffff" opacity="0.45"/>
+  </g>
+</svg>
